@@ -9,7 +9,7 @@ Themes.
 ## Themes
 
 ![Default Theme](demo_imgs/default_theme.png)
-![Iris Theme](emo_imgs/iris_theme.png)
-![Joker Theme](emo_imgs/joker_theme.png)
-![Oracle Theme](emo_imgs/oracle_theme.png)
-![Blush Theme](emo_imgs/blush_theme.png)
+![Iris Theme](demo_imgs/iris_theme.png)
+![Joker Theme](demo_imgs/joker_theme.png)
+![Oracle Theme](demo_imgs/oracle_theme.png)
+![Blush Theme](demo_imgs/blush_theme.png)
