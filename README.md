@@ -8,8 +8,8 @@ Themes.
 
 ## Themes
 
-![Default Theme](default_theme.png)
-![Iris Theme](iris_theme.png)
-![Joker Theme](joker_theme.png)
-![Oracle Theme](oracle_theme.png)
-![Blush Theme](blush_theme.png)
+![Default Theme](demo_imgs/default_theme.png)
+![Iris Theme](emo_imgs/iris_theme.png)
+![Joker Theme](emo_imgs/joker_theme.png)
+![Oracle Theme](emo_imgs/oracle_theme.png)
+![Blush Theme](emo_imgs/blush_theme.png)
